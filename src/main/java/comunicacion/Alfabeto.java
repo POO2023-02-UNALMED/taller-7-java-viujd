@@ -29,7 +29,7 @@ public class Alfabeto extends Pictograma {
 	}
 	
 	public int cantidadLetras() {
-		
+		return letras.size();
 	}
 	
 	public String interpretacion() {
